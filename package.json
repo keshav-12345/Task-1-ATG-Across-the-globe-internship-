@@ -10,24 +10,24 @@
   "author": "Colt Steele",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.2.3",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.14.1",
     "connect-flash": "^0.1.1",
-    "cookie-parser": "^1.4.3",
+    "cookie-parser": "^1.4.6",
     "dotenv": "^4.0.0",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
     "express-session": "^1.15.3",
-    "geocoder": "^0.2.2",
-    "method-override": "^2.3.5",
-    "moment": "^2.17.1",
+    "geocoder": "^0.2.3",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.1",
     "mongoose": "^6.2.1",
-    "nodemailer": "^4.0.1",
+    "nodemailer": "^6.7.2",
     "nodemon": "^2.0.15",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^3.1.0",
-    "request": "^2.65.0"
+    "request": "^2.88.2"
   }
 }
