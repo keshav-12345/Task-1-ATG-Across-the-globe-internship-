@@ -1,3 +1,3 @@
-# USer Login SignUp
+# User Login SignUp
 
-### Refactored by Keshav Bhatheja
+### Made by Keshav Bhatheja
