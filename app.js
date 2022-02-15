@@ -16,7 +16,7 @@ var express     = require("express"),
 // mongoose.connect("mongodb://localhost/yelp_camp_profiles");
 
 
-const DB= process.env.PASS;
+const DB= 'mongodb+srv://Keshav:S0hDsieKKeodSoxe@cluster0.4fyjz.mongodb.net/Userlogin?retryWrites=true&w=majority'
 mongoose.connect(DB,{
   useNewUrlParser: true,
   useUnifiedTopology: true
